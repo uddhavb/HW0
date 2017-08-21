@@ -15,4 +15,3 @@ __ Post commit hook code: __
 
 """#!/bin/sh
 start https://www.google.com/
-"""
