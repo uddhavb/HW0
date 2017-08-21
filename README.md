@@ -8,5 +8,5 @@ __The completed SLACK and Moodle profiles are:__
 
 __The screenshot of the completed git tutorial:__
 
-![Completed Tutorial](\completed_GIT_tutorial.png)
+![Completed Tutorial](/completed_GIT_tutorial.png)
 
