@@ -14,5 +14,6 @@ __The screenshot of the completed git tutorial:__
 __ Post commit hook code: __
 
 /#!/bin/sh
-start https://www.google.com/
+start https://www.quora.com/
+
 
