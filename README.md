@@ -10,3 +10,9 @@ __The screenshot of the completed git tutorial:__
 
 ![Completed Tutorial](/completed_GIT_tutorial.png)
 
+
+__ Post commit hook code: __
+
+"""#!/bin/sh
+start https://www.google.com/
+"""
