@@ -7,3 +7,6 @@ __The completed SLACK and Moodle profiles are:__
 [Moodle profile](https://moodle-projects.wolfware.ncsu.edu/user/profile.php?id=222671)
 
 __The screenshot of the completed git tutorial:__
+
+![Completed Tutorial](\completed_GIT_tutorial.png)
+
