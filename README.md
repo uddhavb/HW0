@@ -13,9 +13,10 @@ __The screenshot of the completed git tutorial:__
 
 __ Post-commit hook code: __
 ```  
-#!/bin/sh    
+#!/bin/sh
+echo "Commit has been applied. The quora homepage will open"
 start https://www.quora.com/
 ```
 
-__Video of the ScreenCast__!!!!
+[Screencast](https://drive.google.com/file/d/0B_wkabBAUc7FNVUzMzk4cHpzSTA/view?usp=sharing)
 
